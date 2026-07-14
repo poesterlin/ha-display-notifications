@@ -71,3 +71,7 @@ cp -r custom_components/esphome_display_notifications /config/custom_components/
 ```
 
 Restart Home Assistant, then add the integration via UI.
+
+## License
+
+Licensed under the [Apache License 2.0](LICENSE).
